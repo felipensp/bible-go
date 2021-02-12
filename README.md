@@ -2,9 +2,10 @@
 A command-line interface for Holy Bible reading written in Go
 
 ```
-bible.go book-name verse-reference [version]
+bible.go book-code verse-reference [version]
 ```
 ##### Default version: acf
+##### Verse reference: N / N:N
 
 ### Usage
 
